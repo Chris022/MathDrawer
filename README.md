@@ -42,3 +42,13 @@ The program is implemented in Java using the Swing library. It uses a modified F
 The program can be run by simply running the "run.sh" file
 
  >>bash run.sh
+
+
+
+
+
+#### Screenshots:
+
+<img src="C:\Users\Christoph Weberbauer\Documents\Chrisi\Programmieren\MathDrawer\MathDrawer\screenshots\screenshotMathBook1.png" alt="screenshotMathBook1"  />
+
+![screenshotMathBook2](C:\Users\Christoph Weberbauer\Documents\Linux\Programmieren\Bewerbungen\Website\website\public\screenshotMathBook2.png)
