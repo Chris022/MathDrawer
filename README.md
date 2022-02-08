@@ -39,9 +39,11 @@ The program is implemented in Java using the Swing library. It uses a modified F
 
 
 ### Running MathBook:
-The program can be run by simply running the "run.sh" file
+The program can be compiled by simply running the "run.sh" file
 
  >>bash run.sh
+
+Or just starting the .jar
 
 
 
