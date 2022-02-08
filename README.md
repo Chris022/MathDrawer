@@ -30,10 +30,10 @@ The program is implemented in Java using the Swing library. It uses a modified F
 - IMPORTANT: for an Expression to be valid, not all Arguments have to be supplied 
 
 #### Examples of Valid Expressions:
-	* 1+3 * $i { 1 } { $f{2}{3} }  { q }
-	* $i{ ( $f { q } { t } ) } { a }  { b }
-	* 1* $p { 1 } { 10 }
-	* 5 * ( $ f{ 3 } ) 
+* 1+3 * $i { 1 } { $f{2}{3} }  { q }
+* $i{ ( $f { q } { t } ) } { a }  { b }
+* 1* $p { 1 } { 10 }
+* 5 * ( $ f{ 3 } ) 
 
 #### Examples:
 
