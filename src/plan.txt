@@ -1,0 +1,22 @@
+A notepad specialiced on maths!!
+
+Functions:
+    Short cuts for the most importations maths expressions
+    Drawing of simple math expressions
+    Normal drawing and writing
+
+Suported MathExpressions:
+    fractures
+    integralls
+    powers
+    footnotes
+
+
+
+
+Forumular renderer
+
+
+Time plan: 
+    
+    Finisched on 16.11.2020
